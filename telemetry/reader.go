@@ -56,6 +56,7 @@ func Read(f io.Reader) (*TELEM, error) {
 		"HUES",
 		"SROT",
 		"TIMO",
+		"SORI", // GoPro 7
 	}
 
 	label := make([]byte, 4, 4) // 4 byte ascii label of data
