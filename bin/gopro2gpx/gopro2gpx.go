@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/stilldavid/gopro-utils/telemetry"
+	"github.com/dymat/gopro-utils/telemetry"
 	"github.com/tkrajina/gpxgo/gpx"
 )
 
